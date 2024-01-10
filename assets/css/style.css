@@ -152,6 +152,11 @@ input, textarea {
 }
 
 :focus { outline-color: var(--orange-yellow-crayola); }
+.avatar-box {
+  background: var(--bg-gradient-onyx);
+  border-radius: 20px;
+
+}
 
 html { font-family: var(--ff-poppins); }
 
@@ -1874,8 +1879,8 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 
   /**
-	 * RESUME
-	 */
+     * RESUME
+     */
 
   .timeline-text { max-width: 700px; }
 
