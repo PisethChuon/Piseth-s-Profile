@@ -152,6 +152,11 @@ input, textarea {
 }
 
 :focus { outline-color: var(--orange-yellow-crayola); }
+.avatar-box {
+  background: var(--bg-gradient-onyx);
+  border-radius: 20px;
+
+}
 
 html { font-family: var(--ff-poppins); }
 
